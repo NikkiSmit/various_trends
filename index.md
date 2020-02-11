@@ -1,3 +1,6 @@
+---
+layout: home
+---
 <h1> Trends </h1>
 <h2> SA GDP vs. Spain GDP </h2>
 <iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=sagdpyoy&v=202001291441V20191105&type=type=line&title=false&url2=/spain/gdp&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/south-africa/gdp-growth-annual'>tradingeconomics.com</a>
