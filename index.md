@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 <h1> Trends </h1>
 <h2> SA GDP vs. Spain GDP </h2>
